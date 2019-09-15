@@ -1,0 +1,30 @@
+.timer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.timer input {
+    outline: none;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    font-size: 4.5rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.timer button {
+    margin-top: 2.5rem;
+    background: transparent;
+    border: none;
+    width: 4rem;
+    padding: 0;
+}
+
+.timer svg {
+    width: 4rem;
+    fill: #fff;
+    color: #fff;
+}
